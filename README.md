@@ -2,9 +2,9 @@
 
 This is another paragraph
 
-'''
+```
 <p> This is some text </p>
-'''
+```
 
 1. this
 2. is
