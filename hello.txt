@@ -2,5 +2,3 @@
 
 <p> hello World</p>
 <p> imad </p>
-
-<p>New Para from other branch</p>
